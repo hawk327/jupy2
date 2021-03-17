@@ -5,8 +5,8 @@ First trial of Jupyter Notebook setup <!--- test a comment here -->
 
 
 
-[//]: < [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD) OR >
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD)
+[//]: < [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hawk327/jupy2/HEAD) OR >
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/jupy2/HEAD)
 <!--- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/) %update this -->
 
 
